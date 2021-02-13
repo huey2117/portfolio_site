@@ -5,6 +5,11 @@
 This is the source code for my personal portfolio website and resume. 
 
 
+# Updates I plan to make
+- Add smooth scroll
+- Add hover animations for work experience
+
+
 # Inspiration
 My React Knowledge base and inspiration were from this 10 hour video by John Smilga from CodingAddict partnering with freeCodeCamp.org. The video can be found [here](https://www.youtube.com/watch?v=4UZrsTqkcW4&t=1622s).
 
