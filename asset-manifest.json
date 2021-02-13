@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fced358e.chunk.css",
+    "main.js": "/static/js/main.32b8c94b.chunk.js",
+    "main.js.map": "/static/js/main.32b8c94b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d5e247eb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d5e247eb.js.map",
+    "static/js/2.da26c41f.chunk.js": "/static/js/2.da26c41f.chunk.js",
+    "static/js/2.da26c41f.chunk.js.map": "/static/js/2.da26c41f.chunk.js.map",
+    "static/js/3.487f359c.chunk.js": "/static/js/3.487f359c.chunk.js",
+    "static/js/3.487f359c.chunk.js.map": "/static/js/3.487f359c.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.fced358e.chunk.css.map": "/static/css/main.fced358e.chunk.css.map",
+    "static/js/2.da26c41f.chunk.js.LICENSE.txt": "/static/js/2.da26c41f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/librebaskerville-regular-webfont.c5950393.ttf",
+    "static/media/profile.3812a92b.jpg": "/static/media/profile.3812a92b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5e247eb.js",
+    "static/js/2.da26c41f.chunk.js",
+    "static/css/main.fced358e.chunk.css",
+    "static/js/main.32b8c94b.chunk.js"
+  ]
+}
