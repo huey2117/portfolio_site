@@ -11,6 +11,7 @@ import DropdownLink from '@/Components/DropdownLink';
 import NavLink from '@/Components/NavLink';
 import ResponsiveNavLink from '@/Components/ResponsiveNavLink';
 import { Team } from '@/types';
+import SideMenu from '@/Components/SideMenu';
 
 interface Props {
   title: string;
@@ -49,6 +50,7 @@ export default function AppLayout({
   return (
     <div>
       <Head title={title} />
+      <SideMenu />
 
       <Banner />
 

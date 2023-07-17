@@ -1,6 +1,9 @@
 # ignore linter cache
 .eslintcache
 
+# temp command
+/app/Console/Commands/TempCommand.php
+
 # dependencies
 /node_modules
 /.pnp

@@ -12,6 +12,8 @@ export default {
     './resources/js/**/*.tsx',
   ],
 
+  darkMode: 'class',
+
   theme: {
     extend: {
       fontFamily: {
@@ -24,6 +26,15 @@ export default {
         'secondary-dark': '#065F46',
         'tertiary-light': '#3B82F6',
         'tertiary-dark': '#1D4ED8',
+
+        // color I used to create wheels
+        // '#1D4ED8',
+        // like these
+        'dark-bg': '#263459',
+        'button-color-dark': '#6386E6',
+        'button-color-green': '#40591D',
+        'button-color-test': '#D97D27',
+        'button-color-main': '#7985A6',
       },
     },
   },

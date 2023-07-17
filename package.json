@@ -25,10 +25,14 @@
     "vite": "^3.2.7"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
     "@headlessui/react": "^1.7.15",
     "@inertiajs/core": "^1.0.8",
     "@inertiajs/react": "^1.0.8",
     "@inertiajs/server": "^0.1.0",
+    "@mui/icons-material": "^5.14.0",
+    "@mui/material": "^5.14.0",
     "classnames": "^2.3.2",
     "lodash": "^4.17.21",
     "react": "^18.2.0",
