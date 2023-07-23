@@ -94,7 +94,7 @@ export default function Welcome({ canLogin, canRegister }: Props) {
                     Loopy doopy scoopy da poopy. This some bullshit lorem ipsum
                     yo...
                   </p>
-                  <button className="bg-button-color-test hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                  <button className="bg-button-color-main hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
                     Do Shit
                   </button>
                 </div>
@@ -125,7 +125,7 @@ export default function Welcome({ canLogin, canRegister }: Props) {
                     Loopy doopy scoopy da poopy. This some bullshit lorem ipsum
                     yo...
                   </p>
-                  <button className="bg-button-color-green hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                  <button className="bg-button-color-main hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
                     Do Shit
                   </button>
                 </div>
@@ -156,7 +156,7 @@ export default function Welcome({ canLogin, canRegister }: Props) {
                     Loopy doopy scoopy da poopy. This some bullshit lorem ipsum
                     yo...
                   </p>
-                  <button className="bg-button-color-dark hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
+                  <button className="bg-button-color-main hover:bg-blue-700 text-white font-bold py-2 px-4 rounded">
                     Do Shit
                   </button>
                 </div>

@@ -21,20 +21,14 @@ export default {
       },
       colors: {
         'primary-light': '#4F46E5',
-        'primary-dark': '#C4B5FD',
+        'primary-dark': '##3b82f6',
         'secondary-light': '#10B981',
-        'secondary-dark': '#065F46',
+        'secondary-dark': '#232D50',
         'tertiary-light': '#3B82F6',
-        'tertiary-dark': '#1D4ED8',
-
-        // color I used to create wheels
-        // '#1D4ED8',
-        // like these
-        'dark-bg': '#263459',
-        'button-color-dark': '#6386E6',
-        'button-color-green': '#40591D',
-        'button-color-test': '#D97D27',
-        'button-color-main': '#7985A6',
+        'dark-background': '#111827',
+        'dark-bg': '#232D50',
+        'button-color-main': '#3b82f6',
+        'shadow-test': '#6c6982',
       },
     },
   },
