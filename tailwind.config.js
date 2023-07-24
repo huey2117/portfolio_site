@@ -1,6 +1,5 @@
-import defaultTheme from 'tailwindcss/defaultTheme';
-import forms from '@tailwindcss/forms';
-import typography from '@tailwindcss/typography';
+import forms from '@tailwindcss/forms'
+import typography from '@tailwindcss/typography'
 
 /** @type {import('tailwindcss').Config} */
 export default {
@@ -21,7 +20,7 @@ export default {
       },
       colors: {
         'primary-light': '#4F46E5',
-        'primary-dark': '##3b82f6',
+        'primary-dark': '#3b82f6',
         'secondary-light': '#10B981',
         'secondary-dark': '#232D50',
         'tertiary-light': '#3B82F6',
